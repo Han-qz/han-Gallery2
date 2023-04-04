@@ -28,7 +28,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.GridView;
 
-import com.android.gallery3d.app.GalleryActivity;
+import com.android.gallery3d111.app.GalleryActivity;
 import com.android.photos.adapters.PhotoThumbnailAdapter;
 import com.android.photos.data.PhotoSetLoader;
 import com.android.photos.shims.LoaderCompatShim;

@@ -30,7 +30,7 @@ import android.net.Uri;
 import android.os.CancellationSignal;
 import android.provider.BaseColumns;
 
-import com.android.gallery3d.common.ApiHelper;
+import com.android.gallery3d111.common.ApiHelper;
 
 import java.util.List;
 

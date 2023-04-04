@@ -35,8 +35,8 @@ import android.view.Choreographer.FrameCallback;
 import android.view.View;
 import android.widget.FrameLayout;
 
-import com.android.gallery3d.glrenderer.BasicTexture;
-import com.android.gallery3d.glrenderer.GLES20Canvas;
+import com.android.gallery3d111.glrenderer.BasicTexture;
+import com.android.gallery3d111.glrenderer.GLES20Canvas;
 import com.android.photos.views.TiledImageRenderer.TileSource;
 
 import javax.microedition.khronos.egl.EGLConfig;

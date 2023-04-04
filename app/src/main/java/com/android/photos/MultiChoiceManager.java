@@ -31,12 +31,12 @@ import android.widget.AbsListView.MultiChoiceModeListener;
 import android.widget.ShareActionProvider;
 import android.widget.ShareActionProvider.OnShareTargetSelectedListener;
 
-import com.android.gallery3d.R;
-import com.android.gallery3d.app.TrimVideo;
-import com.android.gallery3d.data.MediaObject;
-import com.android.gallery3d.filtershow.FilterShowActivity;
-import com.android.gallery3d.filtershow.crop.CropActivity;
-import com.android.gallery3d.util.GalleryUtils;
+import com.android.gallery3d111.R;
+import com.android.gallery3d111.app.TrimVideo;
+import com.android.gallery3d111.data.MediaObject;
+import com.android.gallery3d111.filtershow.FilterShowActivity;
+import com.android.gallery3d111.filtershow.crop.CropActivity;
+import com.android.gallery3d111.util.GalleryUtils;
 
 import java.util.ArrayList;
 import java.util.List;

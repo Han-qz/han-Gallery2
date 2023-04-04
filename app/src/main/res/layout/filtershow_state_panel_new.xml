@@ -22,7 +22,7 @@
             android:layout_weight="1"
             android:scrollbars="none">
 
-        <com.android.gallery3d.filtershow.state.StatePanelTrack
+        <com.android.gallery3d111.filtershow.state.StatePanelTrack
                 android:id="@+id/listStates"
                 android:orientation="horizontal"
                 android:layout_width="match_parent"

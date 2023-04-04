@@ -28,9 +28,9 @@ import android.os.Build;
 import android.os.Build.VERSION_CODES;
 import android.util.Log;
 
-import com.android.gallery3d.common.BitmapUtils;
-import com.android.gallery3d.glrenderer.BasicTexture;
-import com.android.gallery3d.glrenderer.BitmapTexture;
+import com.android.gallery3d111.common.BitmapUtils;
+import com.android.gallery3d111.glrenderer.BasicTexture;
+import com.android.gallery3d111.glrenderer.BitmapTexture;
 import com.android.photos.views.TiledImageRenderer;
 
 import java.io.IOException;

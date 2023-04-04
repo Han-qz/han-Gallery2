@@ -15,7 +15,7 @@
  */
 package com.android.camera;
 
-import com.android.gallery3d.util.IntentHelper;
+import com.android.gallery3d111.util.IntentHelper;
 
 import android.app.Activity;
 import android.content.Intent;

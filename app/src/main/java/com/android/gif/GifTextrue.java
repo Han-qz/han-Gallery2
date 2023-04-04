@@ -16,17 +16,15 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 
-import junit.framework.Assert;
 import android.graphics.Bitmap;
-import android.graphics.Canvas;
 import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.android.gallery3d.glrenderer.BitmapTexture;
-import com.android.gallery3d.ui.TileImageView;
+import com.android.gallery3d111.glrenderer.BitmapTexture;
+import com.android.gallery3d111.ui.TileImageView;
 
 // TODO single instance
 

@@ -25,11 +25,11 @@ import android.graphics.PixelFormat;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 
-import com.android.gallery3d.data.MediaItem;
-import com.android.gallery3d.ui.BitmapLoader;
-import com.android.gallery3d.util.Future;
-import com.android.gallery3d.util.FutureListener;
-import com.android.gallery3d.util.ThreadPool;
+import com.android.gallery3d111.data.MediaItem;
+import com.android.gallery3d111.ui.BitmapLoader;
+import com.android.gallery3d111.util.Future;
+import com.android.gallery3d111.util.FutureListener;
+import com.android.gallery3d111.util.ThreadPool;
 import com.android.photos.data.GalleryBitmapPool;
 
 

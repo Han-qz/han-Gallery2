@@ -19,20 +19,16 @@ package com.android.photos.adapters;
 import android.content.Context;
 import android.database.Cursor;
 import android.graphics.drawable.Drawable;
-import android.text.format.DateFormat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.CursorAdapter;
 import android.widget.ImageView;
-import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.android.gallery3d.R;
+import com.android.gallery3d111.R;
 import com.android.photos.data.AlbumSetLoader;
 import com.android.photos.shims.LoaderCompatShim;
-
-import java.util.Date;
 
 public class AlbumSetCursorAdapter extends CursorAdapter {
 
