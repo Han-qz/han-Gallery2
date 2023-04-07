@@ -25,9 +25,9 @@ import android.nfc.NfcEvent;
 import android.provider.MediaStore.Files.FileColumns;
 import android.widget.ShareActionProvider;
 
-import com.android.gallery3d111.common.ApiHelper;
-import com.android.gallery3d111.data.MediaObject;
-import com.android.gallery3d111.util.GalleryUtils;
+import android.util.gallery3d111.common.ApiHelper;
+import android.util.gallery3d111.data.MediaObject;
+import android.util.gallery3d111.util.GalleryUtils;
 
 import java.util.ArrayList;
 

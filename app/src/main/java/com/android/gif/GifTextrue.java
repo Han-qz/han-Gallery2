@@ -23,8 +23,8 @@ import android.os.Looper;
 import android.os.Message;
 import android.util.Log;
 
-import com.android.gallery3d111.glrenderer.BitmapTexture;
-import com.android.gallery3d111.ui.TileImageView;
+import android.util.gallery3d111.glrenderer.BitmapTexture;
+import android.util.gallery3d111.ui.TileImageView;
 
 // TODO single instance
 

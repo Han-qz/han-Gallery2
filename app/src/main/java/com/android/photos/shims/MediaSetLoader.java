@@ -23,14 +23,14 @@ import android.database.MatrixCursor;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 
-import com.android.gallery3d111.data.ContentListener;
-import com.android.gallery3d111.data.DataManager;
-import com.android.gallery3d111.data.MediaItem;
-import com.android.gallery3d111.data.MediaObject;
-import com.android.gallery3d111.data.MediaSet;
-import com.android.gallery3d111.data.Path;
-import com.android.gallery3d111.data.MediaSet.SyncListener;
-import com.android.gallery3d111.util.Future;
+import android.util.gallery3d111.data.ContentListener;
+import android.util.gallery3d111.data.DataManager;
+import android.util.gallery3d111.data.MediaItem;
+import android.util.gallery3d111.data.MediaObject;
+import android.util.gallery3d111.data.MediaSet;
+import android.util.gallery3d111.data.Path;
+import android.util.gallery3d111.data.MediaSet.SyncListener;
+import android.util.gallery3d111.util.Future;
 import com.android.photos.data.AlbumSetLoader;
 
 import java.util.ArrayList;

@@ -15,7 +15,7 @@
      limitations under the License.
 -->
 
-<com.android.gallery3d111.filtershow.ui.FramedTextButton
+<android.util.gallery3d111.filtershow.ui.FramedTextButton
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/cropUtilityButton"
     android:layout_width="84dip"

@@ -22,7 +22,7 @@
     android:layout_height="wrap_content"
     android:layout_weight="1" >
 
-    <com.android.gallery3d111.filtershow.imageshow.ImageTinyPlanet
+    <android.util.gallery3d111.filtershow.imageshow.ImageTinyPlanet
         android:id="@+id/imageTinyPlanet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

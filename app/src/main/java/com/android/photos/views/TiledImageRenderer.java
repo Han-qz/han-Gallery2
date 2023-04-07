@@ -28,10 +28,10 @@ import android.util.Pools.SynchronizedPool;
 import android.view.View;
 import android.view.WindowManager;
 
-import com.android.gallery3d111.common.Utils;
-import com.android.gallery3d111.glrenderer.BasicTexture;
-import com.android.gallery3d111.glrenderer.GLCanvas;
-import com.android.gallery3d111.glrenderer.UploadedTexture;
+import android.util.gallery3d111.common.Utils;
+import android.util.gallery3d111.glrenderer.BasicTexture;
+import android.util.gallery3d111.glrenderer.GLCanvas;
+import android.util.gallery3d111.glrenderer.UploadedTexture;
 
 /**
  * Handles laying out, decoding, and drawing of tiles in GL

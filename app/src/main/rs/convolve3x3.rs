@@ -15,7 +15,7 @@
  */
 
 #pragma version(1)
-#pragma rs java_package_name(com.android.gallery3d.filtershow.filters)
+#pragma rs java_package_name(com.android.gallery3d111.filtershow.filters)
 #pragma rs_fp_relaxed
 
 int32_t gWidth;
